@@ -1,6 +1,5 @@
  body {
             font-family: Arial, sans-serif;
-            text-align: center;
         }
         h1 {
             margin-top: 20px;
@@ -8,16 +7,5 @@
         img {
             height: 300px;
             margin: 20px 0;
-        }
-        p {
-            font-size: 18px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-            font-size: 18px;
         }
     </style
